@@ -1,5 +1,5 @@
 const App = () => {
-    return (<div></div>);
+    return(<div>singelton</div>);
 }
 
 export default App;

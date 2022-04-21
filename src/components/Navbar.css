@@ -1,0 +1,15 @@
+.navbarStyle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.navbarStyle a {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: black;
+}
+
+.navbarStyle a:hover {
+    color: grey;
+}
