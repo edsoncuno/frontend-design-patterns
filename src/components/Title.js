@@ -6,7 +6,7 @@ const App = (props) => {
         'fontSize': `${props.fontSize}`
     }
 
-    return (<div className='titleStyle' style={appStyle}>{props.name}</div>);
+    return (<div className='titleStyle' style={appStyle}>{props.text}</div>);
 }
 
 export default App;

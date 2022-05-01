@@ -4,7 +4,7 @@ import './Header.css'
 
 const App = () => {
     return (<header className='headerStyle'>
-        <Title name={'Design Patterns'}/>
+        <Title text={'Design Patterns'}/>
         <Navbar />
     </header>);
 }
